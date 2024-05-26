@@ -3,4 +3,9 @@
     <string name="sirop">Sirop</string>
     <string name="boites">Boites</string>
     <string name="ampoules">Ampoules</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sirop_fragment">Sirop Fragment</string>
+    <string name="boites_fragment">Boites Fragment</string>
+    <string name="ampoules_fragment">Ampoules Fragment</string>
 </resources>
